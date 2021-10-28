@@ -1,7 +1,7 @@
 package service
 
 import (
-	pb "Lagom1/MessageHub/Protos"
+	pb "github.com/Echo-P-Chang/Lagom1-Dependency/Protos"
 	"context"
 )
 

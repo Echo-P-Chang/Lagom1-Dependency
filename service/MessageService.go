@@ -3,7 +3,7 @@ package service
 import (
 	"context"
 
-	pb "github.com/Echo-P-Chang/Lagom1-Dependency"
+	pb "github.com/Echo-P-Chang/Lagom1-Dependency/Protos"
 )
 
 type MessageService struct {
